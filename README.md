@@ -12,3 +12,5 @@ TASK: After reading the article, read these two tables giving an overview of the
 ### The Data
 
 Data openly available on 538's github: https://github.com/fivethirtyeight/data. There are two csv files, one with Fandango Stars and Displayed Ratings, and the other with aggregate data for movie ratings from other sites, like Metacritic,IMDB, and Rotten Tomatoes.
+
+It is an very amazing project and lot of methods will be went through during this
